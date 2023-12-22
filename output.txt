@@ -1,0 +1,24 @@
+todosh: --- 2 TASKS OVERDUE ---  1/8 Complete
+
+[1mPAST/UNSCHEDULED (DEC 1 - DEC 19) ------------------------------------- (84/88)[22m
+[ ] Task delete..                                         DEC 18 04:59   DEC 16
+[ ] Task delete..                                         DEC 18 04:59   DEC 17
+[ ] Task delete..                                         DEC 18 04:59   -
+[ ] Task delete..                                         -              -
+
+[1mWEDNESDAY, DEC 20 (TODAY) --------------------------------------------- ( 2/ 7)[22m
+[ ] Task delete..                                         DEC 18 04:59   DEC 20
+[ ] Task delete..                                         -              DEC 20
+[7m[ ] Task delete                                           DEC 18 04:59   DEC 20[27m
+ ├─ [ ] Task delete                                       -              DEC 20
+ └─ [ ] Task delete                                       -              DEC 20
+[ ] Task delete..                                         -              DEC 20
+    ...2 completed...
+
+[1mTHURSDAY, DEC 21  ----------------------------------------------------- ( 2/ 4)[22m
+[ ] Task delete..                                         DEC 18 04:59   DEC 21
+[ ] Task delete                                           -              DEC 21
+    ...2 completed...
+
+[1mUPCOMING (DEC 22 - DEC 31) -------------------------------------------- ( 0/12)[22m
+
